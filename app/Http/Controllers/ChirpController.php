@@ -15,7 +15,7 @@ class ChirpController extends Controller
     public function index(): Response 
     {
         //
-        return response('Hello, World!');
+        return response('Assalamualaikum, Kunti Najma Jalia!');
     }
 
     /**
